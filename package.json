@@ -1,5 +1,5 @@
 {
-  "name": "xlsx-template",
+  "name": "xlsx-template-coder36",
   "version": "0.0.7",
   "description": "Generate .xlsx (Excel) files from templates built in Excel",
   "main": "./lib/index",
